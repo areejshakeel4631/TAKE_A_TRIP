@@ -20,9 +20,9 @@ function Step2() {
                     describes your place?  </div>
             </div>
 
-            <div className="justify center flex w-[50%]  flex-1 flex-col space-y-6 bg-white py-12 px-4 font-[Poppins] sm:px-6 lg:flex-none lg:px-20 xl:px-24">
+            <div className="justify center flex w-[50%]  flex-1 flex-col space-y-6 bg-white py-1 px-4 font-[Poppins] sm:px-6 lg:flex-none lg:px-20 xl:px-24">
 
-                <div className=" pb-12 pt-28 space-y-5">
+                <div className=" pb-12 pt-20 space-y-5">
 
                     <button type="button" className="text-secondary font-bold w-full  rounded-xl  bg-white border border-gray-400  hover:bg-gray-80 focus:ring-4 focus:ring-gray-200   text-xl px-4 py-5  dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-300 dark:hover:border-gray-600 dark:focus:ring-gray-700">
                         An entire place

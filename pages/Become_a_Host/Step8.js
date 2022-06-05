@@ -25,7 +25,7 @@ function Step8() {
                 <div className="grid place-items-center pt-48 text-white font-[Poppins] text-3xl font-bold w-500 ">Give your place <br></br> a name and <br></br> describe it</div>
             </div>
 
-            <div className="justify center flex w-[50%] text-secondary flex-1 flex-col space-y-6 bg-white py-12 px-4 font-[Poppins] sm:px-6 lg:flex-none lg:px-20 xl:px-24">
+            <div className="justify center flex w-[50%] text-secondary flex-1 flex-col space-y-6 bg-white py-1 px-4 font-[Poppins] sm:px-6 lg:flex-none lg:px-20 xl:px-24">
                 <div className="pt-10 space-y-7">
                 <div>
                     <label className="text-secondary mb-3 font-semibold text-base mt-5">
@@ -59,7 +59,7 @@ function Step8() {
                     </label>
                 </div>
                 </div>
-                <div className="flex pt-16 pb-7 justify-between mr-5">
+                <div className="flex pt-16 pb-2 justify-between mr-5">
                     <button onClick={goToStep7} className="left-4 text-md bg-[#b5838d] px-6 font-[Poppins] py-2 shadow-md inline-block rounded-full font-bold  text-white ">Back</button>
                     <button onClick={goToStep9} className="text-md bg-[#b5838d] px-6 font-[Poppins] py-2 shadow-md inline-block rounded-full font-bold text-white">Next
                     </button>

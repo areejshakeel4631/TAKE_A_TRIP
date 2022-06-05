@@ -19,7 +19,7 @@ function Step9() {
                 <div className="grid place-items-center pt-48 space-x-10 text-white font-[Poppins] text-3xl font-bold w-500 ">Property Documents to<br></br> certify legitimacy of <br></br> your property</div>
             </div>
 
-            <div className="justify center flex w-[50%]  flex-1 flex-col space-y-6 bg-white py-12 px-4 font-[Poppins] sm:px-6 lg:flex-none lg:px-20 xl:px-24">
+            <div className="justify center flex w-[50%]  flex-1 flex-col space-y-6 bg-white py-1 px-4 font-[Poppins] sm:px-6 lg:flex-none lg:px-20 xl:px-24">
                 <div className="border mt-10 pt-10 space-y-3 border-gray-300 rounded-lg h-fit">
                     <div className="grid place-items-center">
                         <Image quality="100" src="/document.png" alt="upload document" height="200px" width="200px" className=" opacity-25 justify-center" />
@@ -29,7 +29,7 @@ function Step9() {
                         </div>
                     </div>
                 </div>
-                <div className="flex pt-16 justify-between mr-5">
+                <div className="flex pt-8 justify-between mr-5">
                     <button onClick={goToStep8} className="left-4 text-md bg-[#b5838d] px-6 font-[Poppins] py-2 shadow-md inline-block rounded-full font-bold  text-white ">Back</button>
                     <button onClick={goToStep10} className="text-md bg-[#b5838d] px-6 font-[Poppins] py-2 shadow-md inline-block rounded-full font-bold text-white">Next
                     </button>

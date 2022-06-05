@@ -19,8 +19,8 @@ export default function Step5() {
                 <div className="grid place-items-center pt-48 space-x-10 text-white font-[Poppins] text-3xl font-bold w-500 ">What does your <br></br> place has to offer?</div>
             </div>
 
-            <div className="justify center flex w-[50%]  flex-1 flex-col space-y-6 bg-white py-12 px-4 font-[Poppins] sm:px-6 lg:flex-none lg:px-20 xl:px-24">
-                    <div className=" pb-28 pt-32">
+            <div className="justify center flex w-[50%]  flex-1 flex-col space-y-6 bg-white py-1 px-4 font-[Poppins] sm:px-6 lg:flex-none lg:px-20 xl:px-24">
+                    <div className=" pb-28 pt-28">
                         <h2 className="text-secondary font-bold pb-3">Do you have any of these at your place?</h2>
                         <div className="flex flex-col space-y-2">
                             <label className="inline-block text-secondary">

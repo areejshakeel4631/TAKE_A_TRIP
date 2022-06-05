@@ -23,35 +23,35 @@ function Step7() {
                 <div className="border space-y-3 overflow-y-scroll border-gray-500 rounded-md h-96">
                     <h2 className=" text-center pt-3 opacity-80 font-semibold">Add at least 3 photos</h2>
                     <div className=" pl-2 ">
-                        <Image src="/uploadimage.png" alt="upload image" height="120px" width="130px" className="opacity-30" />
+                        <Image src="/image.png" alt="upload image" height="120px" width="130px" className="opacity-30" />
                         <div className=" text-secondary pt-2 pb-7 space-y-2">
                             <input type="file" className=" outline-none" /> <br></br>
                             <button className="underline">Upload your Cover photo here</button>
                         </div>
                     </div>
                     <div className="pl-2">
-                        <Image src="/uploadimage.png" alt="upload image" height="120px" width="130px" className="opacity-30" />
+                        <Image src="/image.png" alt="upload image" height="120px" width="130px" className="opacity-30" />
                         <div className=" text-secondary pt-2 pb-7 space-y-2">
                             <input type="file" className=" outline-none" /> <br></br>
                             <button className="underline"> Upload photo </button>
                         </div>
                     </div>
                     <div className="pl-2">
-                        <Image src="/uploadimage.png" alt="upload image" height="120px" width="130px" className="opacity-30" />
+                        <Image src="/image.png" alt="upload image" height="120px" width="130px" className="opacity-30" />
                         <div className=" text-secondary pt-2 pb-7 space-y-2">
                             <input type="file" className=" outline-none" /> <br></br>
                             <button className="underline"> Upload photo </button>
                         </div>
                     </div>
                     <div className="pl-2">
-                        <Image src="/uploadimage.png" alt="upload image" height="120px" width="130px" className="opacity-30" />
+                        <Image src="/image.png" alt="upload image" height="120px" width="130px" className="opacity-30" />
                         <div className=" text-secondary pt-2 pb-7 space-y-2">
                             <input type="file" className=" outline-none" /> <br></br>
                             <button className="underline"> Upload photo </button>
                         </div>
                     </div>
                     <div className="pl-2">
-                        <Image src="/uploadimage.png" alt="upload image" height="120px" width="130px" className="opacity-30" />
+                        <Image src="/image.png" alt="upload image" height="120px" width="130px" className="opacity-30" />
                         <div className=" text-secondary pt-2 pb-7 space-y-2">
                             <input type="file" className=" outline-none" /> <br></br>
                             <button className="underline"> Upload photo </button>

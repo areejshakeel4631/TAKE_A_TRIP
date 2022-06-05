@@ -63,7 +63,7 @@ function Step4() {
         </div>
       </div>
 
-      <div className="justify center flex w-[50%]  flex-1 flex-col space-y-6 bg-white py-12 px-4 font-[Poppins] sm:px-6 lg:flex-none lg:px-20 xl:px-24">
+      <div className="justify center flex w-[50%]  flex-1 flex-col space-y-6 bg-white py-1 px-4 font-[Poppins] sm:px-6 lg:flex-none lg:px-20 xl:px-24">
         <div className="pt-20 space-y-10">
           
             <button
@@ -73,7 +73,7 @@ function Step4() {
               <div className="font-bold text-xl flex justify-between">
                 Guests
                 <Image
-                  className="rounded fill-secondary  opacity-60"
+                  className="rounded fill-secondary  opacity-60 "
                   src="/minus.png"
                   height="8"
                   width="25"
@@ -100,7 +100,7 @@ function Step4() {
             <div className="font-bold text-xl flex justify-between">
               Beds 
               <Image
-                className="mr-5 items-end rounded fill-secondary opacity-60"
+                className="  rounded fill-secondary opacity-60"
                 src="/minus.png"
                 height="8"
                 width="25"

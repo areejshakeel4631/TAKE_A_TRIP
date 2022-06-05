@@ -19,7 +19,7 @@ function Step1() {
                 <div className="grid place-items-center pt-48 space-x-10 text-white font-[Poppins] text-3xl font-bold w-500 ">What kind of place <br></br> will you host?</div>
             </div>
 
-            <div className="justify center flex w-[50%]  flex-1 flex-col space-y-6 bg-white py-12 px-4 font-[Poppins] sm:px-6 lg:flex-none lg:px-20 xl:px-24">
+            <div className="justify center flex w-[50%]  flex-1 flex-col space-y-6 bg-white py-1 px-4 font-[Poppins] sm:px-6 lg:flex-none lg:px-20 xl:px-24">
                 <div className="space-y-5 pt-20">
                     <button type="button" className="text-secondary w-full rounded-full bg-white border border-gray-400 hover:bg-gray-80 focus:ring-4 focus:ring-gray-200 font-medium text-lg px-5 py-4 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-300 dark:hover:border-gray-600 dark:focus:ring-gray-700">
                         <div className="flex justify-between" >
@@ -51,7 +51,7 @@ function Step1() {
 
                 </div>
 
-                <div className="flex pt-6 pb-7 justify-between mr-5">
+                <div className="flex pt-0 pb-7 justify-between mr-5">
                     <button onClick={goToHome} className="left-4 text-md bg-[#b5838d] px-6 font-[Poppins] py-2 shadow-md inline-block rounded-full font-bold  text-white ">Back</button>
                     <button onClick={goToStep2} className="text-md bg-[#b5838d] px-6 font-[Poppins] py-2 shadow-md inline-block rounded-full font-bold text-white">Next
                     </button>
